@@ -7,6 +7,8 @@ title: "Phoebe LIU"
 
 > Chinese pianist, organist.
 
+<img src="/assets/img/banner.jpg"/>
+
 ## Biography
 
 ---
@@ -19,5 +21,5 @@ Phoebe has participated in many famous competitions in the world. In 2009, she w
 
 Phoebe has given recitals in several contries and cooperated with many famous musicians. She has performed successfully at the Beijing Concert Hall, the China National Centre for the Performing Arts, the Tianjin Grand Theatre, the Disney Concert Hall in Los Angeles, etc. In 2010, Phoebe performed with the famous pianist Lang Lang in Wuhan, China at Christmas. In 2012, she performed with Czech pianist Pavel Kasper at the Embassy of Czech Republic in Beijing, China. In 2014, she participated in the Italian Embassy Baroque Concert Series in Beijing, China. In 2016, she took part in the Los Angeles International Piano Festival, USA, and performed a solo concert at the Disney Concert Hall. In July 2016, she participated in the Tianjin Grand Theatre 's opera "Cavalleria Rusticana" as an organist under the conducting of famous Chinese conductor Tang Muhai. In July 2018, she participated in the China National Center for the Performing Arts's opera "Romeo and Juliet" as an organist. In 2020, she played Ma Mère l'Oye at the Ravel concert series in the Amaryllis Fleming Concert Hall of RCM. In 2021, she performed several recitals at St. John's Fulham Church, St. Cuthbert's Church and Mary Abbots Church in London, UK. In March 2022, Phoebe participated in a Masterclass in RCM taken by Leslie Howard. Also in March 2022, she gave a recital in the Scriabin Music Festival of RCM.
 
-Phoebe is generously supported by Talent Unlimited.
+Phoebe is a Talent Unlimited Artist.
 
