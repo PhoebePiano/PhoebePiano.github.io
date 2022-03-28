@@ -13,9 +13,9 @@ title: "Phoebe LIU"
 
 ---
 
-## Biography
 
----
+
+## Biography
 
 Phoebe was born in China in 1999. She startd learning the Piano when she was four years old. She was educated at the Middle School affiliated to The China Central Conservatory of Music at the age of nine, where she continued to study Piano with famous contemporary Chinese pianist, Professor Wang Xiaohan. During this period, she was awarded the Fan Jianqin Scholarship. In 2013, she studied with famous Chinese pianist Chen Sa. During 2015 - 2018, she studied organ with famous Chinese organist Shen Fanxiu.
 
