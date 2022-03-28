@@ -3,17 +3,20 @@ layout: default
 title: "Phoebe LIU"
 ---
 
-# Phoebe LIU
+<!-- # Phoebe LIU -->
+
+---
+
+<img src="/assets/img/banner.jpg"/>
 
 > Chinese pianist, organist.
 
-<img src="/assets/img/banner.jpg"/>
 
 ## Biography
 
 ---
 
-Phoebe was born in China in 1999. She startd learning the Piano when she four years old. She was educated at the Middle School affiliated to The China Central Conservatory of Music at the age of nine, where she continued to study Piano with famous contemporary Chinese pianist, Professor Wang Xiaohan. During this period, she was awarded the Fan Jianqin Scholarship. In 2013, she studied with famous Chinese pianist Chen Sa. During 2015 - 2018, she studied organ with famous Chinese organist Shen Fanxiu.
+Phoebe was born in China in 1999. She startd learning the Piano when she was four years old. She was educated at the Middle School affiliated to The China Central Conservatory of Music at the age of nine, where she continued to study Piano with famous contemporary Chinese pianist, Professor Wang Xiaohan. During this period, she was awarded the Fan Jianqin Scholarship. In 2013, she studied with famous Chinese pianist Chen Sa. During 2015 - 2018, she studied organ with famous Chinese organist Shen Fanxiu.
 
 In 2019, Phoebe continued her studies of bachelor at the Royal College of Music(RCM) in London, United Kingdom, with Professor Ilya Kondratiev. She is the holder of the C. Bechstein Scholarship supported by the Mike Whittaker.
 
